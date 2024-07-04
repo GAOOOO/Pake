@@ -1,7 +1,7 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/Snapchat.icns"],
+      "icon": ["http://gaoooo.work:9001/browser/icon/ODdkMjc2ODcyMjZkYTJjNGQ2NzExYmI3YmE1MDE1NjRfU25hcGNoYXQuaWNucw=="],
       "identifier": "com.pake.weread",
       "active": true,
       "category": "DeveloperTool",
